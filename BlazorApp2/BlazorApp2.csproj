@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grace" Version="7.1.1-Beta784" />
+    <PackageReference Include="Grace.AspNetCore.Hosting" Version="7.1.0-Beta107" />
+  </ItemGroup>
+
+</Project>
